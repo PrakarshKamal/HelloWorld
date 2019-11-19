@@ -11,4 +11,5 @@ I enjoy:
  - Frisbee
  - Anime
 
+check out this site to download sublime text (https://www.sublimetext.com/)
  
